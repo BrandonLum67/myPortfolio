@@ -3,8 +3,10 @@
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
 
 ## 🚀 About Me  
-<p align="Justify">
+<p align="justify">
 I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> specializing in <strong>AI-driven analytics, IoT solutions, smart metering, and predictive energy systems</strong>. With over <strong>15 years of experience</strong>, I have collaborated extensively with <strong>Tenaga Nasional Berhad (TNB)</strong> on projects involving <strong>non-technical loss detection, smart grid optimization, and energy fraud prevention</strong>. My work bridges <strong>academia and industry</strong>, focusing on AI applications that enhance <strong>grid reliability, energy security, and sustainability</strong>.
+</p>
+<br>
 
 ## 🛠 Technical Skills  
 
@@ -13,12 +15,14 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
 - **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+<br>
 
 ## 🎓 Education  
 
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
 - **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
 - **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+<br>
 
 ## 💼 Work Experience  
 
@@ -39,6 +43,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
 - **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
 - **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
+<br>
 
 ## 📂 Projects  
 
@@ -62,12 +67,14 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **AI in Energy Analytics** - UNITEN Industry Forum  
 - **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
 - **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
+<br>
 
 ## 🏆 Publications & Research  
 
 - Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
 - **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
 - **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
+<br>
 
 ## 🏅 Certifications & Professional Memberships  
 
@@ -76,6 +83,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **Certified Python Programmer for Data Science**  
 - **Certified Cybersecurity Specialist**  
 - **Industrial IoT (IIoT) Developer**  
+<br>
 
 ## 📢 Connect with Me  
 
