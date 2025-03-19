@@ -1,6 +1,7 @@
 # Ir. Dr. Prajindra Sankar Krishnan  
 
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+<br>
 
 ## 🚀 About Me  
 <p align="justify">
@@ -61,6 +62,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 
 - Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
 - Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
+<br>
 
 ## 🎤 Talks & Workshops  
 
